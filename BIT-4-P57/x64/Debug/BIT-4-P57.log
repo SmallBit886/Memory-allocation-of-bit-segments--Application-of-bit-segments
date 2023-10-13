@@ -1,0 +1,4 @@
+﻿  text.c
+G:\C_Text\BIT-4-P57\BIT-4-P57\text.c(52,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+G:\C_Text\BIT-4-P57\BIT-4-P57\text.c(52,9): message : 请考虑在格式字符串中使用“%zd”
+  BIT-4-P57.vcxproj -> G:\C_Text\BIT-4-P57\x64\Debug\BIT-4-P57.exe
